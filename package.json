@@ -5,8 +5,7 @@
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
-    "restart": "nodemon index.js",
-    "test": "mocha --timeout 10000"
+    "restart": "nodemon index.js"
   },
   "author": "Mohamed Elkashif",
   "license": "MIT",
