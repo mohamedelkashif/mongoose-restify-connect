@@ -1,0 +1,23 @@
+{
+  "name": "mongoose-restify-connect",
+  "version": "1.0.0",
+  "description": "package to use to connect to mongogDB database directly using mongoose",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "restart": "nodemon index.js",
+    "test": "mocha --timeout 10000"
+  },
+  "author": "Mohamed Elkashif",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^6.2.0",
+    "lodash": "^4.17.19",
+    "module-alias": "^2.1.0",
+    "mongoose": "^5.4.5",
+    "restify": "^7.5.0",
+    "restify-cors-middleware": "^1.1.1",
+    "restify-logger": "^2.0.1",
+    "restify-router": "^0.5.1"
+  }
+}
