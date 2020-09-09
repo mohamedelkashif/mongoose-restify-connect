@@ -1,6 +1,6 @@
 {
   "name": "mongoose-restify-connect",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "package to use to connect to mongogDB database directly using mongoose",
   "main": "index.js",
   "scripts": {
